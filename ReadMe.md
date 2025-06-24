@@ -27,3 +27,12 @@ Pumps that were working and need repair were the most dificult to predict. We we
 ## Conclusion
 
 Here we achived limited success with an overall 79% prediction rate. Too many pumps that were funtional but need repair was classified as working. This area needs improvement in the next iteration. Possibly additional data may be required as we've reach the limitations of what was provided.
+
+## Repository Structure
+
+* ReadMe.md --------->            This file
+* notebook.ipynb ------>       Project Jupyter notebook
+* presentation.pdf ----->      Project presentation
+* images --------------> Images used in the notebook and presentation
+* zippedData ----------> Data files used for the project
+
