@@ -36,3 +36,5 @@ Here we achived limited success with an overall 79% prediction rate. Too many pu
 * images --------------> Images used in the notebook and presentation
 * zippedData ----------> Data files used for the project
 
+## Link to presentation
+https://github.com/tstrain199/tanzania_water/blob/main/Tanzania%20Water.pdf
